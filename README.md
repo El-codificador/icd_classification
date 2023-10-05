@@ -1,4 +1,4 @@
-# icd_classification
+# INTERNATIONAL CLASSIFICATION OF DISEASES (ICD) AND NATURAL LANGUAGE PROCESSING IN PYTHON
 This project is on ICD (International Classification of Diseases) classification using both the machine learning's supervised and unsupervised learning mechanism. The program has been developed in Python in Jupyter Notebook environment.
 
 ## Install Jupyter Notebook
