@@ -18,6 +18,7 @@ This project is on ICD (International Classification of Diseases) classification
 - matplotlib
 - seaborn
 - sklearn
+
 Install third-party modules by running this command:
   pip install package_name (in Jupyter Notebook's cell)
   conda install package_name (in Anaconda's terminal)
