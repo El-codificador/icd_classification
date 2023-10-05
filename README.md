@@ -26,6 +26,7 @@ Don't forget to replace the "package_name" with the actual name of a package tha
 
 ## Load and Execute This Program
 - Open terminal and clone this repository using the following command:
+
   git clone https://github.com/El-codificador/icd_classification.git
   You need to install "Git" and keep it in system's PATH for this. Install git from [here](https://git-scm.com/downloads)
 - Load both the dataset and the notebook file in Jupyter's home
